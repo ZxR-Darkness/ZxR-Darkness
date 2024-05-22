@@ -4,7 +4,7 @@
 - 💞 ️ I'm looking to collaborate on an open platform 
 - 📫 How to contact me no
 - 😄 Pronouns: darki 
-- ⚡ ⚡ fun fact: I love foxes
+- ⚡ fun fact: I love foxes
 
 <!---
 darkneASS/darkneASS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
