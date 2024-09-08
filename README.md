@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @darkneASS
+- 👋 Hi, I'm @ZxR_Darkness
 -  👀 I'm interested in open source code 
 - 🌱 I'm currently training in Moscow
 - 💞 ️ I'm looking to collaborate on an open platform 
