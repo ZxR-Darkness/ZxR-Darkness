@@ -1,10 +1,4 @@
-- 👋 Hi, I'm @ZxR_Darkness
--  👀 I'm interested in open source code 
-- 🌱 I'm currently training in Moscow
-- 💞 ️ I'm looking to collaborate on an open platform 
-- 📫 How to contact me no
-- 😄 Pronouns: darki 
-- ⚡ fun fact: I love foxes
+i am alone
 
 <!---
 darkneASS/darkneASS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
