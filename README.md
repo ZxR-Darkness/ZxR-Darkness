@@ -4,7 +4,14 @@
 
 <br>
 
-### 🕸 [ **Обо мне** ]
+<div align="center">
+<pre>::: : : : [ D A R K N E S S ] : : : :::
+:::. . . | | | S O U R C E | | | . . . :::
+::: [ _ G L I T C H _ ] ::: ::: [ ⬢ ] :::
+</pre>
+</div>
+
+### [ 🕸 ] [ **Обо мне** ]
 
 Я — участник **O.S. TEAM**. Пишу, когда мысли приходят сами. Исследую мир кода, архитектуру железа и создаю игровые миры из пустоты. Я выбрал путь **созидания через тьму**.
 
@@ -12,7 +19,7 @@
 * **Интересы:** Компьютерные комплектующие, философия тьмы, модификации.
 * **Статус:** *«Only when you enter the darkness will you realize that darkness is the light of this world...»*
 
-### 🛠 [ **System Architecture** ]
+### [ 🛠 ] [ **System Architecture** ]
 
 <p align="left">
   <img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%205%207600-ed1c24?style=flat-square&logo=amd&logoColor=white" />
@@ -21,11 +28,12 @@
   <img src="https://img.shields.io/badge/OS-Windows%2011%20Pro-0078d4?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
-### 🌑 [ **Darkness Progress** ]
+### [ 🌑 ] [ **Darkness Progress** ]
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=ZxR-Darkness&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="ZxR-Darkness Stats" />
-  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZxR-Darkness&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa" alt="ZxR-Darkness Langs" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=ZxR-Darkness&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="ZxR-Darkness Stats" />
+  
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZxR-Darkness&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" alt="ZxR-Darkness Langs" />
 </p>
 
 <div align="center">
