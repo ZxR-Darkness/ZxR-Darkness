@@ -8,7 +8,7 @@
 
 ---
 
-### 🕸 Обо мне
+### 🕸 [ **Обо мне** ]
 
 Я — участник **O.S. TEAM**. Пишу, когда мысли приходят сами. Исследую мир кода, архитектуру железа и создаю игровые миры из пустоты. Я выбрал путь **созидания через тьму**.
 
@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠 System Architecture
+### 🛠 [ **System Architecture** ]
 
 <div align="left">
   <img src="https://img.shields.io/badge/CPU-AMD%20Ryzen%205%207600-ed1c24?style=for-the-badge&logo=amd&logoColor=white" />
@@ -29,11 +29,12 @@
 
 ---
 
-### 🌑 Darkness Progress
+### 🌑 [ **Darkness Progress** ]
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&theme=dark&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=ZxR-Darkness&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="ZxR-Darkness GitHub Stats" />
+  
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZxR-Darkness&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa" alt="ZxR-Darkness Top Langs" />
 </p>
 
 ---
@@ -42,5 +43,5 @@
 > Это **место для фиксации состояния, мыслей и тьмы**, когда она говорит.
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" width="300" />
+  <img src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" width="300" alt="GitHub Snake" />
 </p>
