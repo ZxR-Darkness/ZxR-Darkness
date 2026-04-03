@@ -1,11 +1,6 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=DARKNESS%20SOURCE&height=150&fontSize=60&animation=fadeIn" />
-</h1>
 
-<p align="center">
   <i>«Тьма — это не отсутствие света. У тьмы есть источник.»</i>
 </p>
-
 ---
 
 ### 🕸 [ **Обо мне** ]
